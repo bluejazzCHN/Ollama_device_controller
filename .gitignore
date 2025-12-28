@@ -1,0 +1,9 @@
+build/
+*.o
+*.so
+*.a
+*.out
+*.log
+.vscode/
+github_key
+*.pub
