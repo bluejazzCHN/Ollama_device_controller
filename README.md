@@ -1,5 +1,5 @@
 # Device Controller based on Ollama
-- All in One on PB5
+- All in One on Raspberry 5B
 - 通过Ollama大语言模型解析自然语言指令，转换为结构化设备控制命令，实现对家用设备的智能化控制。
   - **自然语言交互**：使用日常语言控制设备
   - **结构化输出**：确保AI响应符合预定格式
